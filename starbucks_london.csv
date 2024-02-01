@@ -1,0 +1,217 @@
+id,City,Street Address,Longitude,Latitude,Potential,Staff,Capacity,Cost
+0,London,265 Wharncliffe Rd North,-81.25400074659775,43.003347759712675,6,1,5,high
+1,London,"1105 Wellington Rd., Store No. 122",-81.17240224865283,42.93723133354647,7,2,5,medium
+2,London,631 Commissioners Road East,-81.21374471277464,42.98269206553862,7,4,3,medium
+3,London,1442 Fanshawe Park Road,-81.31042483298185,43.02134656263812,9,8,1,high
+4,London,"580 Fanshawe Park Road East, Unit 1, White Oaks Shopping Centre",-81.21202622330343,43.05411205826835,4,1,3,medium
+5,London,1105 Wellington Road South,-81.17123243334915,42.97071044627337,4,4,0,medium
+6,London,1164 Highbury Ave N,-81.184822606884,43.05113835850895,5,4,1,medium
+7,London,"160 Dundas St W, Corner Unit",-81.25337234653432,43.012023239323426,3,1,2,medium
+8,London,"1680 Richmond Street, L105A",-81.28430038643504,43.0325556023819,3,1,2,high
+9,London,1291 Commissioners Road West,-81.3277555709161,43.00067586776306,9,7,2,high
+10,London,601 Richmond Street,-81.2060501655768,43.00782454790261,3,3,0,high
+11,London,3059 Wonderland Rd S,-81.25017641773209,42.9496295849039,10,7,3,high
+12,London,"640 Hyde Park Road, Unit E",-81.3241130396928,42.994245007515524,9,3,6,high
+13,London,1151 Richmond St.,-81.26192362875678,43.010916578347704,6,6,0,medium
+14,London,300 King St,-81.2116722105469,43.02018970927215,6,2,4,medium
+15,London,"1905 Dundas Street East, #1",-81.17761872456802,43.01846902974218,10,3,7,medium
+16,London,"1255 Western Rd, Chapters",-81.2758622669191,43.0404742503891,4,1,3,medium
+17,London,"1037 Wellington Rd., Unit 2",-81.22819405625756,42.95298578043335,4,4,0,high
+18,London,"615 Fanshawe Park Road, Unit 1, Richmond North Centre",-81.30202216983048,43.023383109571434,4,1,3,medium
+19,London,86 Fanshawe Park Road,-81.25794688439562,43.06894518231273,9,8,1,high
+20,London,"37-39 St. John's Road, Brixton Underground Station",-0.17472652612306586,51.4608257942045,3,3,0,medium
+21,London,"Shop 5, Brixton Underground Station",-0.09614815190535628,51.45868200463193,4,1,3,medium
+22,London,"A120 Thermal Lane, London Stansted Airport",0.2937998631263852,51.91293022241017,3,2,1,medium
+23,London,"St. Paul's Church Yard, Juxon House, Unit 2, Regents Corner",-0.06282371860958755,51.533999453124764,3,3,0,high
+24,London,"296 Pentoville Road, Regents Corner, London - KingsCross",-0.07942464395608112,51.563661866200356,4,4,0,high
+25,London,186 Earls Court Road,-0.14742840268622895,51.51481644062708,7,3,4,medium
+26,London,227 Portobello Road,-0.16451305735028793,51.53204245703719,6,3,3,medium
+27,London,"159 Great Portland Street, Canary Wharf - Jubilee",-0.12932180724723705,51.53144195697282,4,3,1,medium
+28,London,"Unit R:P:490, One Canada Square",0.004001184135312429,51.543552140897006,9,2,7,medium
+29,London,"41 - 43 Bedford Hill, Balham",-0.15389483272859975,51.45890110359516,5,3,2,medium
+30,London,259 Old Brompton Road,-0.14473422649442974,51.50443531666985,9,4,5,high
+31,London,38 Walbrook,-0.0544439369574588,51.54418812662286,4,3,1,low
+32,London,132 Wigmore Street,-0.11852674181651643,51.51793852155836,5,3,2,low
+33,London,"2 Mitcham Road, Tooting Broadway",-0.15768315164101335,51.4349341006124,3,3,0,medium
+34,London,"7 Islington High st, Chantrey House",-0.11045735351100278,51.578363415599604,4,2,2,high
+35,London,"98 Buckingham Palace road, Chantrey House",-0.11090450612786884,51.50659406525715,10,4,6,high
+36,London,Wood Lane Underground Station,-0.1768767451656913,51.54910158163726,5,3,2,high
+37,London,"The Broadway, Central Chambers",-0.2530971253009819,51.54107831485623,8,3,5,high
+38,London,17 Moorgate,-0.08321609394030452,51.54064889135913,9,5,4,high
+39,London,"158 Cromwell Road, Coffe Shop Unit Sainsbury's",-0.1928788910553059,51.518089628972334,4,2,2,high
+40,London,Unit 2122,-0.20359151704413012,51.52298971370562,9,7,2,high
+41,London,"80 Dog Kennel Hill, East Dulwich",-0.046929976635087564,51.50451564258674,5,1,4,high
+42,London,16-18 Palmer Street,-0.1284394213788312,51.49761435533029,10,8,2,high
+43,London,"17-35 Gloucester Road, Unit 5",-0.14272923372638172,51.52484633472009,7,7,0,medium
+44,London,"Fulham Broadway Station, Unit 4",-0.18102261518764529,51.487791475262476,6,6,0,medium
+45,London,"124 Southhampton Row, Broadway",-0.12333870775931845,51.53180019164087,9,6,3,medium
+46,London,"114 Muswell Hill,",-0.13696061824345612,51.60821765799803,10,3,7,high
+47,London,"The Lion, 1 Junction Road, London",-0.09734593807895878,51.569207214960386,7,2,5,high
+48,London,"202/204 Clapham High Street, Ground Floor",-0.14205723844329496,51.498652746649874,7,4,3,medium
+49,London,"The O2, Unit 101",0.004988906471921547,51.51307497580789,4,4,0,medium
+50,London,"170 Wardour Street, The Circle",-0.1324680839078391,51.54451488180723,7,3,4,high
+51,London,"St Pancras International Station, Unit 24",-0.10552799440662063,51.566327608437696,9,9,0,high
+52,London,Wandsworth Bridge Road,-0.1923888294906646,51.49672218811678,8,1,7,low
+53,London,64 Notting Hill Gate,-0.1537606565936641,51.55969255486123,6,4,2,medium
+54,London,"62 Uxbridge Road, Shepherds Bush",-0.2181470115964612,51.497962069241574,6,3,3,medium
+55,London,3 Grosvenor Street,-0.1361379234822564,51.50742793966558,4,2,2,medium
+56,London,"74/78 Finsbury Pavement, Units 4",-0.0935094103885458,51.56028473974141,9,3,6,medium
+57,London,"34 Great Marlborough St, (Carnaby Street)",-0.12538552996268323,51.51810508860408,8,2,6,high
+58,London,"Zinc House, Unit 1",-0.07498098520101892,51.52831684671239,6,1,5,low
+59,London,9 Byward Street,-0.045026112127534455,51.53317095068994,4,3,1,high
+60,London,51 Great Russell Street,-0.12468447260959327,51.56606844878326,8,1,7,low
+61,London,59 Broadgate Link,-0.0548416494521681,51.52473752044156,4,2,2,medium
+62,London,"201 Wood Lane, Media Village, Kensington High St.",-0.18524916745573586,51.54342664894764,5,4,1,medium
+63,London,"25a Kensington High St, J Sainsbury's plc",-0.18312817465633432,51.504295810841946,7,5,2,high
+64,London,"Hyde Estate Road, Starbucks c/o Sainsbury's, Starbucks c/o Sainsbury's",-0.23939074195438495,51.6013221166587,6,6,0,medium
+65,London,"681 Greens Lane, Winchmore Hill",-0.07236677937825177,51.66804320041432,7,5,2,low
+66,London,11 Leadenhall Street,-0.07990172823724544,51.541348786362825,6,4,2,medium
+67,London,90 High Holborn,-0.11853399168524982,51.56904674591327,8,1,7,medium
+68,London,"Warehouse K, ExCel Centre, 2 Western Gateway",0.03933960694060708,51.51613756426521,6,5,1,high
+69,London,99 St Martins Lane,-0.11784627418973923,51.514458236287076,9,4,5,medium
+70,London,58 Baker Street,-0.16134023207337542,51.52606584285779,4,3,1,medium
+71,London,5 Upper ST Martins Lane,-0.12690512600127768,51.54218345103625,4,2,2,high
+72,London,"369 Fulham Road, Unit A and B",-0.18363096277021393,51.514618958085926,5,3,2,medium
+73,London,76 - 78 Holland Park Avenue,-0.19505803736086177,51.52670363936791,7,2,5,low
+74,London,"New Retail Unit, Knightsbridge Underground Station",-0.14172637788777318,51.547903693861414,4,1,3,high
+75,London,"5-7 South End Road, South Hampstead",-0.1682960864343287,51.598066546015936,4,3,1,medium
+76,London,"305-307 Green Lanes, London, Heathrow Express Area",-0.10337006298467696,51.624467300582474,4,2,2,medium
+77,London,"Heathrow Express Area, Unit 3 - The Lawns., The Brunswick Centre",-0.15794576030924473,51.56857572286224,4,2,2,high
+78,London,"Brunswick Centre, Unit 7",-0.10134838810888686,51.55658497122935,3,2,1,medium
+79,London,Lower Concourse,-0.06344790842750554,51.525132314668475,3,2,1,high
+80,London,"Unit 1A Euston Tower Podium, Regents Place",-0.1009868587016846,51.57203044044355,6,6,0,low
+81,London,"13-15 Surrey Quays, Unit B",-0.04568107353915563,51.52601403211923,4,2,2,high
+82,London,"60 - 66 Wardour Street, Ground Floor",-0.09233924977184682,51.53230219789276,8,6,2,high
+83,London,"33 Cavendish Square, Unit 1",-0.1346453038142922,51.519372478730205,4,2,2,high
+84,London,"7-9 Golders Green Road, The Torrington Public House",-0.18614055588080156,51.60979139097111,10,1,9,medium
+85,London,"811 High Road, Unit A, The Torrington Public House",-0.14992777928788587,51.629467739112094,4,3,1,medium
+86,London,"2 South Lambeth Road, Vauxhall",-0.07642145623940122,51.5135238709836,5,2,3,high
+87,London,"143-144 Cheapside, Unit 3",-0.0859317906446687,51.52138762944271,4,2,2,high
+88,London,1-3 Villiers street,-0.10709039381282734,51.52319023926272,9,9,0,high
+89,London,201A West End Lane,-0.15276261465016797,51.562528753810696,8,4,4,medium
+90,London,"14 Villiers Street, Unit 14, Whiteleys of Bayswater",-0.12088237052827916,51.51403434039912,10,4,6,high
+91,London,"Unit 217,   2nd Floor, Unit 217 (2nd Floor)",-0.1709390163573979,51.543587704770985,9,7,2,high
+92,London,"Unit 2.1, departures terminal gate 11",-0.14783652181078802,51.49812427244513,5,4,1,low
+93,London,1 - 2  Langham Place,-0.11660500729883316,51.548681358599126,3,3,0,high
+94,London,33/38 Northcote Road,-0.12373514000490393,51.45569026405002,4,3,1,medium
+95,London,48-50 Minories,-0.07142982622850134,51.506564826368816,6,3,3,medium
+96,London,"12 A Mepham Street, Main concourse opposite platform 19/20, The Coronium Cafe",-0.06931138519757254,51.51647642040067,6,4,2,medium
+97,London,Cloister Walk,-0.03756863854045629,51.54110063479638,6,2,4,medium
+98,London,Northern Ticket Hall (Unit 2),-0.07433455668856245,51.57594007671958,4,4,0,high
+99,London,"Cineworld Cinemas, 142 Fulham Road, West One Centre",-0.14476764600607098,51.53640036204896,4,1,3,low
+100,London,"381 Oxford Street, Unit G13",-0.10891815987547378,51.526464201433605,9,9,0,medium
+101,London,93 Euston Road,-0.1273416672956174,51.54096684073774,5,5,0,high
+102,London,"45 Whitechapel Road, Unit 5",-0.04530303660977085,51.533993808670495,9,2,7,medium
+103,London,"168-170 Randolph Avenue, Maidavale",-0.16314814088555987,51.56958520099188,5,4,1,medium
+104,London,8-10 Brushfield Street,-0.08336866447374405,51.54944963527698,10,6,4,medium
+105,London,"Unit SU0038, Westfield Stratford",0.009703810459256614,51.53609006245767,6,2,4,high
+106,London,"Raynes Park, 1,3,5 Station Buildings",-0.2193686887482429,51.422703536140205,7,2,5,medium
+107,London,"11 Replingham Road, Southfields, Notting Hill Gate",-0.18897173569600306,51.476443848767175,6,3,3,low
+108,London,26 Pembridge Road,-0.18241871150995562,51.507383546164334,8,4,4,medium
+109,London,"433-435 Uxbridge Road, Ealing Common",-0.26313106777828565,51.50921411786566,9,9,0,high
+110,London,"57 Englands Lane, Belsize Park",-0.13475329401203295,51.57993776072388,7,5,2,medium
+111,London,"Unit K15 , Olympic Park, Montfichet Road",0.020214011320308603,51.58359193892856,8,5,3,high
+112,London,"31 - 33 Sun Street, Broadgate",-0.07578374604266971,51.5180890999952,3,2,1,medium
+113,London,77 Tottenham Court Road,-0.11364244748972466,51.5481261385434,8,4,4,medium
+114,London,12 Copthall Avenue,-0.09311188890671936,51.53793592872038,9,8,1,low
+115,London,"3 Fleet Place, Unit 2",-0.0902842042903111,51.54229303373151,4,2,2,medium
+116,London,"Waterloo East Station, Platform B/C, Sandell Street, Ashdown House",-0.07778052507808816,51.54875702477556,4,2,2,high
+117,London,137 Victoria Street,-0.12108352028467492,51.544394670429504,10,8,2,high
+118,London,"6A Vigo Street, London",-0.09223842010766209,51.539195098609554,8,2,6,medium
+119,London,"Colliers Wood, Unit 10 Tandem Centre",-0.16788637251071373,51.40526992409081,10,3,7,high
+120,London,"Station parade, Kew",-0.27847254971242835,51.482495194902015,5,4,1,high
+121,London,"36 Broadway Shopping Centre, Hammersmith Broadway",-0.1732835096569372,51.50147205087706,8,4,4,medium
+122,London,"17 Broadway, Westminister",-0.09718579467194172,51.535428190697125,7,7,0,high
+123,London,"Cineworld Cinemas Southbury Leisure Park, Southbury Road (208), Enfield",-0.025249583853029153,51.646299643622974,5,4,1,medium
+124,London,19 Old Brompton Road,-0.12741663068896764,51.51769582934721,5,5,0,medium
+125,London,"200 Hammersmith Road, Berkeley Square",-0.21018818012684853,51.48705315357959,10,3,7,medium
+126,London,27 Berkeley St,-0.09958972150217979,51.54440054999633,7,6,1,medium
+127,London,104-122 City Road,-0.08174464392685139,51.549745913699596,6,6,0,high
+128,London,376 Chiswick High road,-0.2575419415043775,51.52834930801815,7,7,0,high
+129,London,Unit 1018a,-0.18407660548055937,51.555408713943834,5,1,4,medium
+130,London,22-23 Princes St,-0.10797778503791511,51.50948537001948,4,4,0,medium
+131,London,809 Fulham Road,-0.19969432479613383,51.49852262448534,10,6,4,high
+132,London,44 - 48  New Kings Road,-0.1578861984973601,51.48998272794896,9,6,3,high
+133,London,223-227 Borough High Street,-0.046758102282613595,51.5187815323175,4,4,0,high
+134,London,175 Tottenham  Court Road,-0.1424004313996894,51.54742228873301,7,4,3,medium
+135,London,"1a York House, 26 Edgware Road",-0.1258443640403851,51.553337726553906,3,2,1,high
+136,London,"Euston Station, Unit 37, Barnby St",-0.09294726497126428,51.576762210735886,10,8,2,high
+137,London,53-55 Pimlico Road,-0.1505276779491233,51.53982474422606,3,1,2,high
+138,London,52 Berkeley St.,-0.13133832920702646,51.53223992189606,8,4,4,medium
+139,London,96 Westboune Grove,-0.16537431179556988,51.55677831865339,6,6,0,high
+140,London,"Platform 7/8, The Bridge",-0.18534690493927633,51.43153904358138,10,6,4,low
+141,London,"15 Sheldon Square, Paddington Central Kiosk",-0.14421683348916803,51.551285050024795,5,5,0,medium
+142,London,126 Baker Street,-0.11806699270811015,51.549047102974754,5,4,1,medium
+143,London,123a Kings Road,-0.13795688312650994,51.53850200897426,5,3,2,medium
+144,London,442 Strand,-0.09308826791197358,51.55091012710691,5,4,1,high
+145,London,"95-96 Wandsworth Bridge Road, Wandsworth",-0.15560880210700875,51.47533277683925,8,6,2,high
+146,London,"30 Upper St, Islington, O2 Centre",-0.108582193959301,51.55114317303484,6,1,5,medium
+147,London,"255 Finchley Road, Swiss Cottage 02 Centre, Burleigh House",-0.18479235444993783,51.55902770163921,8,3,5,medium
+148,London,"Unit2 Burleigh House, 355-359 The Strand",-0.0864545880634778,51.5451991361036,3,1,2,low
+149,London,"25 Bank Street, Canary Wharf, 7th Floor",0.011509457160449934,51.519928769194344,3,3,0,high
+150,London,13b Hanover Square,-0.0960858612565102,51.53358492557988,5,5,0,medium
+151,London,"Belvedere Road, 3C and 3D, East Block County Hall",-0.11116224883001594,51.508587364772545,8,1,7,medium
+152,London,39 Abbeville Road,-0.13732442499718894,51.44648250369653,3,3,0,high
+153,London,Waterloo Station,-0.10830172975860285,51.50630370497308,10,5,5,high
+154,London,Bishopsgate Entrance,-0.06546306298624294,51.54561703513892,4,3,1,medium
+155,London,St. Katherine's Way,-0.020781119520971454,51.54167027619632,6,3,3,medium
+156,London,62 Wandsworth Road,-0.09434521303828575,51.500101111276656,4,3,1,medium
+157,London,"South Collonade, Canary Wharf, Brent Cross Shopping Centre",0.027776552865446873,51.52465329480247,8,4,4,high
+158,London,"East Court Cafe, Brent Cross Shopping Centre",-0.20743315458529607,51.62635308694575,6,5,1,medium
+159,London,"Unit D, 1C Greenwich Shopping Park, Bugsbys Way, Charlton",0.017685824362967322,51.520538884021875,9,1,8,high
+160,London,89 Salusbury Road,-0.16646350907485832,51.56169908567336,7,7,0,medium
+161,London,"14 James Street, St. Katherine's House",-0.1267836937364087,51.559442399409015,6,6,0,medium
+162,London,"10 Kingsway, Unit B2; St Catherines House",-0.07993363572826187,51.52514014601698,3,2,1,medium
+163,London,"250 Upper Street, Islington",-0.10105628461131703,51.556873585469816,5,4,1,high
+164,London,54-56 Greenwich Church St,0.03620091823232311,51.49146720669773,7,2,5,high
+165,London,"4/6 Parkway, Camden, Unit SU2R",-0.0907585154040235,51.56916577197634,7,4,3,medium
+166,London,207 Edgware Road,-0.13205178714960583,51.5553735452159,5,2,3,medium
+167,London,37-39 High Holborn,-0.0934013366642257,51.54032543509806,4,1,3,medium
+168,London,"44-48 Brompton Road, Unit 4a 44-58",-0.14307367498702098,51.52422484823452,8,5,3,high
+169,London,"48 Gracechurch Street, Unit A",-0.08995580356710349,51.55864359265601,9,8,1,high
+170,London,"3 Tower Place, East Building",-0.050313430464493256,51.530398698100036,7,7,0,low
+171,London,30-34A New Bridge Street,-0.06247675362628162,51.51029546586824,5,2,3,low
+172,London,65-71 Sloane Avenue,-0.12132942481375222,51.50492241175262,3,3,0,medium
+173,London,"79 St Johns Wood High St & 1 Circus Road, St. John's Wood",-0.13030316686438317,51.55489347588805,9,5,4,medium
+174,London,"35 Horseferry Road, Unit 15 Great Minster Court",-0.10025323426946751,51.50414138115964,9,6,3,high
+175,London,47-49 Queensway,-0.17378375609966903,51.51254794352624,3,2,1,low
+176,London,150 Fleet Street,-0.1096233566752967,51.505362535523055,3,3,0,medium
+177,London,"Victoria Station, Platform 2 Unit 3B, 15 Victoria Street",-2.844316704087547,55.75871605762855,9,3,6,high
+178,London,"7 Church St, Belsize Park",-0.04542992972142639,51.68318808612503,6,2,4,high
+179,London,"202 Haverstock Hill, Kingsway House, Grd Flr",-0.15579102257928817,51.56983683897038,3,2,1,medium
+180,London,99 Kingsway,-0.12185357336978582,51.52294614820014,4,2,2,medium
+181,London,"Euston Road, Ground Concourse Unit 11a",-0.11683626839637502,51.536990194608336,7,7,0,medium
+182,London,"Victoria Station Frontage, Unit 38, 15 Victoria St",-0.13082086847617663,51.53963040899279,8,7,1,medium
+183,London,"7 The Broadway, Crouch End",-0.10606975594066925,51.57699148522654,4,1,3,medium
+184,London,"87 King William St, Unit 5",-0.05305609359281592,51.52110427543945,4,2,2,high
+185,London,"10 Wimbledon Hill Rd, Unit 5",-0.16097080835804403,51.445606328741555,8,8,0,medium
+186,London,"289 Camden High st, Sulfolk Walk",-0.12408699756268712,51.55614525232827,8,3,5,high
+187,London,"1 Paternoster House, Unit 7",-0.0817229014619415,51.536362012103254,8,6,2,medium
+188,London,220 Beckenham High Street,-0.018908981807534576,51.42888521957299,8,4,4,medium
+189,London,55 Borough High Street,-0.062375393516145,51.51302228134195,3,1,2,high
+190,London,"38 King Street, Hammersmith",-0.20872483300660094,51.53184777090922,3,2,1,high
+191,London,83 Gloucester Road,-0.15725946953404946,51.48585857168722,9,9,0,high
+192,London,"Shop D, Metropolitan Line Ticket Hall, Baker Street Underground Station",-0.15923918054059166,51.5211409219605,5,4,1,high
+193,London,112 - 116 New Oxford Street,-0.12832052914041062,51.561090350593624,6,5,1,medium
+194,London,"13 - 15 Old Broad Street, Unit 4a",-0.04461938788518891,51.53121275677537,9,6,3,medium
+195,London,"Tooley Street, Unit 6, Hays Galleria",-0.03154388857373247,51.53342866168701,6,1,5,high
+196,London,197 Kensington High st,-0.17301360581085803,51.540082372125866,3,2,1,high
+197,London,389 Mile End Road,0.008321469609479965,51.55112917618828,8,5,3,medium
+198,London,"8 Charterhouse Buildings, Goswell Road",-0.06212954204077234,51.52764999715454,5,3,2,high
+199,London,Unit 12 Tiger Borehamwood Shopping Park,-0.27963771367799034,51.69043262891429,8,4,4,high
+200,London,"New Globe Walk (Emerson Street), Unit 1-3 Benbow House",-0.052861890824305584,51.51146608514282,10,10,0,medium
+201,London,"91 Clarence St, Kingston upon Thames",-0.29076710042185994,51.42773772811725,4,2,2,high
+202,London,Churchill Place,0.018039623280498893,51.52939335450099,3,2,1,high
+203,London,"Charing Cross Road, Unit 1  129-133",-0.1122589610492371,51.54412479313343,4,1,3,medium
+204,London,27 Victoria Street,-0.12075853019141221,51.54474988549857,10,7,3,medium
+205,London,"Unit 11 + 12, Jubilee Place",0.015977657967817648,51.520735393994535,4,1,3,medium
+206,London,"Wells Terrace, Finsbury Park",-0.10050157645210904,51.58876868001711,4,1,3,medium
+207,London,"40-42 Old Town, Unit 1,",-0.11280845037354949,51.48204986135698,10,10,0,medium
+208,London,"54 Hopton Street, Falcon Point, Lynton House",-0.08695372627535083,51.538409904783094,10,5,5,medium
+209,London,"Travistock Square, Selfridges",-0.10652899617581474,51.552232026325335,10,1,9,medium
+210,London,400 oxford street,-0.10840766250179122,51.509395209337384,9,1,8,medium
+211,London,2/3 Conduit Street,-0.13657661703649882,51.517061918846714,3,2,1,high
+212,London,280 Chiswick high road,-0.21491980111429945,51.50604424944676,10,9,1,medium
+213,London,10 Russell Street,-0.08248228641582568,51.559836983572715,4,1,3,medium
+214,London,"Unit 5, The Shard Arcade, The Place, London Bridge, Colney Fields Shopping Centre",-0.07717879742656389,51.55396718384545,6,2,4,medium
+215,London,2021 West Highway 192,-84.06888008188787,37.15249977181396,10,8,2,medium
